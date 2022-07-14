@@ -156,6 +156,7 @@ body {
     justify-content: center;
     gap: 20px;
     background-color: var(--Very-Dark-Grayish-Blue);
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 .pop-up-text p {
@@ -303,6 +304,7 @@ body {
         border-radius: 0 0 20px 20px;
         justify-content: flex-start;
         padding-left: 50px;
+        box-shadow: none;
     }
 
     .pop-up-text p {
@@ -382,6 +384,7 @@ body {
         border-radius: 0 0 20px 20px;
         justify-content: flex-start;
         padding-left: 40px;
+        box-shadow: none;
     }
 
     .pop-up-text p {
